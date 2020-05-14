@@ -1,0 +1,238 @@
+2019-10-22 16:46:54 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> xpath: //a[text() = 'Log In']]
+2019-10-22 16:46:54 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> xpath: //a[text() = 'Log In']]
+2019-10-22 16:46:54 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> id: si_popup_email]
+2019-10-22 16:46:54 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> id: si_popup_passwd]
+2019-10-22 16:46:55 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> xpath: //button[text() = 'Login']]
+2019-10-22 16:46:55 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (727ef300ee08d41ea32e246f1148e9e5)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:55:19 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:55:19 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:55:19 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> id: si_popup_email]
+2019-10-23 02:55:20 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> id: si_popup_passwd]
+2019-10-23 02:55:20 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:55:20 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (95da148b5247eb77251611f874443d36)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:55:59 ERROR SharedActions:30 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6961484752c61b146e1bde6b77a0d1d4
+*** Element info: {Using=xpath, value=//a[text() = 'Selenium tutorial']}
+2019-10-23 02:56:51 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:56:51 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:56:52 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> id: si_popup_email]
+2019-10-23 02:56:52 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> id: si_popup_passwd]
+2019-10-23 02:56:52 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:56:52 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (0ea548d8a9412160f0b0a7a2d4bc9fb2)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:56:52 ERROR SharedActions:30 - 
+2019-10-23 02:58:10 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:58:10 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 02:58:11 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> id: si_popup_email]
+2019-10-23 02:58:11 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> id: si_popup_passwd]
+2019-10-23 02:58:11 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:58:11 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (8e70d3e6cd1d34c58e964e1a61f5e4a1)] -> xpath: //button[text() = 'Login']]
+2019-10-23 02:58:11 ERROR SharedActions:34 - Unable to click on Community menu option null
+2019-10-23 02:58:11 ERROR SharedActions:47 - Unable to click on Blog sub-menu option null
+2019-10-23 02:58:11 ERROR SharedActions:30 - 
+2019-10-23 13:50:12 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 13:50:12 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 13:50:19 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> id: si_popup_email]
+2019-10-23 13:50:19 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> id: si_popup_passwd]
+2019-10-23 13:50:19 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> xpath: //button[text() = 'Login']]
+2019-10-23 13:50:19 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (276ff994497069d44a3b964a40851dca)] -> xpath: //button[text() = 'Login']]
+2019-10-23 13:51:35 ERROR SharedActions:34 - Unable to click on Community menu option null
+2019-10-23 13:51:55 ERROR SharedActions:47 - Unable to click on Blog sub-menu option null
+2019-10-23 13:52:03 ERROR SharedActions:30 - 
+2019-10-23 15:29:55 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:29:55 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:29:55 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> id: si_popup_email]
+2019-10-23 15:29:55 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> id: si_popup_passwd]
+2019-10-23 15:29:56 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:29:56 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (0737d6154a444e3e90e74852310e0398)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:31:17 ERROR SharedActions:34 - Unable to click on Community menu option null
+2019-10-23 15:32:38 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:32:38 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:32:38 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> id: si_popup_email]
+2019-10-23 15:32:38 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> id: si_popup_passwd]
+2019-10-23 15:32:39 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:32:39 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (093cd53af82e45dd70af39a9deed3178)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:34:55 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:34:55 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 15:34:56 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> id: si_popup_email]
+2019-10-23 15:34:56 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> id: si_popup_passwd]
+2019-10-23 15:34:56 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:34:56 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //button[text() = 'Login']]
+2019-10-23 15:35:24 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 15:35:24 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 15:35:25 INFO  SharedActions:43 - Clicked on [[ChromeDriver: chrome on XP (482b9dab652ae6b55e8cb71a6b0e42b2)] -> xpath: //li[@role="menuitem"]/a[text() = 'Blog']]
+2019-10-23 16:24:16 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:24:16 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:24:16 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> id: si_popup_email]
+2019-10-23 16:24:17 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> id: si_popup_passwd]
+2019-10-23 16:24:17 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:24:17 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:24:22 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:24:22 INFO  SharedActions:32 - Clicked on [[ChromeDriver: chrome on XP (1261a6810564354d42b0faaa5dad19c3)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:24:33 INFO  SharedActions:48 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role="menuitem"]/a[text() = 'Blog']'
+2019-10-23 16:24:53 ERROR SharedActions:32 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59011}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1261a6810564354d42b0faaa5dad19c3
+*** Element info: {Using=xpath, value=//a[text() = 'Selenium tutorial']}
+2019-10-23 16:27:04 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:27:04 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:27:04 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> id: si_popup_email]
+2019-10-23 16:27:05 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> id: si_popup_passwd]
+2019-10-23 16:27:05 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:27:05 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:27:09 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:27:09 INFO  SharedActions:32 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:27:23 INFO  SharedActions:48 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role="menuitem"]/a[text() = 'Blog']'
+2019-10-23 16:27:23 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:27:23 INFO  SharedActions:40 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:27:29 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:27:29 INFO  SharedActions:28 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:27:33 INFO  SharedActions:67 - Clicked on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:27:33 INFO  SharedActions:26 - Click on [[ChromeDriver: chrome on XP (b8f51c923d0263833c66103512d711ea)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:46:20 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:46:20 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:46:21 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> id: si_popup_email]
+2019-10-23 16:46:21 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> id: si_popup_passwd]
+2019-10-23 16:46:21 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:46:21 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:46:26 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:46:26 INFO  SharedActions:32 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:46:39 INFO  SharedActions:48 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role="menuitem"]/a[text() = 'Blog']'
+2019-10-23 16:46:39 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:46:39 INFO  SharedActions:40 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:46:46 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:46:46 INFO  SharedActions:28 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:46:52 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:46:52 INFO  SharedActions:26 - Click on [[ChromeDriver: chrome on XP (a7fa6d67b2125ec5fc3a0d87a068cda5)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:46:52 ERROR SharedActions:99 - Unable to close current tab
+2019-10-23 16:47:35 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:47:35 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:47:36 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> id: si_popup_email]
+2019-10-23 16:47:36 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> id: si_popup_passwd]
+2019-10-23 16:47:36 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:47:36 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:47:45 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:47:45 INFO  SharedActions:32 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:47:58 INFO  SharedActions:48 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role="menuitem"]/a[text() = 'Blog']'
+2019-10-23 16:47:59 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:47:59 INFO  SharedActions:40 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:48:05 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:48:05 INFO  SharedActions:28 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:48:10 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:48:10 INFO  SharedActions:26 - Click on [[ChromeDriver: chrome on XP (1d95b55491c21a4185bb989e3cd7dfb8)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:49:49 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:49:49 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Log In']]
+2019-10-23 16:49:49 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> id: si_popup_email]
+2019-10-23 16:49:49 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> id: si_popup_passwd]
+2019-10-23 16:49:50 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:49:50 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[text() = 'Login']]
+2019-10-23 16:49:54 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:49:54 INFO  SharedActions:32 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[contains(text(), 'Community')]]
+2019-10-23 16:50:08 INFO  SharedActions:48 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role="menuitem"]/a[text() = 'Blog']'
+2019-10-23 16:50:08 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:50:08 INFO  SharedActions:40 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //button[text() = 'No thanks']]
+2019-10-23 16:50:15 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:50:15 INFO  SharedActions:28 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Selenium tutorial']]
+2019-10-23 16:50:21 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:50:21 INFO  SharedActions:26 - Click on [[ChromeDriver: chrome on XP (b9a19a1b3f3ebeb624c4fcde433b5f57)] -> xpath: //a[text() = 'Selenium interview questions']]
+2019-10-23 16:50:54 INFO  SharedActions:95 - Successfully closed current tab
+2020-05-15 03:36:59 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> xpath: //a[text() = 'Log In']]
+2020-05-15 03:36:59 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> xpath: //a[text() = 'Log In']]
+2020-05-15 03:37:00 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> id: si_popup_email]
+2020-05-15 03:37:00 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> id: si_popup_passwd]
+2020-05-15 03:37:18 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> xpath: //button[text() = 'Login']]
+2020-05-15 03:37:18 INFO  SharedActions:57 - Clicked on [[ChromeDriver: chrome on WINDOWS (dbf4b89a2d2e127f9c501a830e0e12e3)] -> xpath: //button[text() = 'Login']]
+2020-05-15 03:37:39 ERROR SharedActions:36 - Unable to click on Community menu option no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60646}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dbf4b89a2d2e127f9c501a830e0e12e3
+*** Element info: {Using=xpath, value=//button[contains(text(), 'Community')]}
+2020-05-15 03:37:39 ERROR SharedActions:52 - Unable to click on Blog sub-menu option java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: RemoteWebDriver
+2020-05-15 03:52:42 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (f9b4b47a093d5753ed0eb6afb26ffbdc)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 03:52:43 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (f9b4b47a093d5753ed0eb6afb26ffbdc)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 03:53:16 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: //input[@id='emailId']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:53:26 ERROR SharedActions:37 - Unable to enter email [Ljava.lang.StackTraceElement;@6090f3ca
+2020-05-15 03:54:06 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:54:16 ERROR SharedActions:50 - Unable to enter password no such element: Unable to locate element: {"method":"css selector","selector":"#si_popup_passwd"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f9b4b47a093d5753ed0eb6afb26ffbdc
+*** Element info: {Using=id, value=si_popup_passwd}
+2020-05-15 03:54:47 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:55:29 ERROR SharedActions:73 - Unable to click on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:55:39 INFO  SharedActions:59 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']'
+2020-05-15 03:56:13 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (3e31ec465d915098f8de2d368b17a0e3)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 03:56:13 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (3e31ec465d915098f8de2d368b17a0e3)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 03:56:14 INFO  SharedActions:33 - Entered data in [[ChromeDriver: chrome on WINDOWS (3e31ec465d915098f8de2d368b17a0e3)] -> id: emailId]
+2020-05-15 03:56:45 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:56:55 ERROR SharedActions:50 - Unable to enter password no such element: Unable to locate element: {"method":"css selector","selector":"#si_popup_passwd"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3e31ec465d915098f8de2d368b17a0e3
+*** Element info: {Using=id, value=si_popup_passwd}
+2020-05-15 03:57:25 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:58:06 ERROR SharedActions:73 - Unable to click on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 03:58:16 INFO  SharedActions:59 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']'
+2020-05-15 04:00:27 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (75da288feb4431d36397bf1e6eca19bc)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:00:27 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (75da288feb4431d36397bf1e6eca19bc)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:00:28 INFO  SharedActions:37 - Entered data in [[ChromeDriver: chrome on WINDOWS (75da288feb4431d36397bf1e6eca19bc)] -> id: emailId]
+2020-05-15 04:00:59 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: si_popup_passwd' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 04:01:09 ERROR SharedActions:61 - Unable to enter password no such element: Unable to locate element: {"method":"css selector","selector":"#si_popup_passwd"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 75da288feb4431d36397bf1e6eca19bc
+*** Element info: {Using=id, value=si_popup_passwd}
+2020-05-15 04:01:40 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 04:02:20 ERROR SharedActions:73 - Unable to click on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']' (tried for 20 second(s) with 500 milliseconds interval)
+2020-05-15 04:02:30 INFO  SharedActions:70 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //button[text() = 'Login']'
+2020-05-15 04:03:37 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (d7620177cc3cc0f7a3994d5f1ac0e853)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:03:38 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (d7620177cc3cc0f7a3994d5f1ac0e853)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:03:39 INFO  SharedActions:37 - Entered data in [[ChromeDriver: chrome on WINDOWS (d7620177cc3cc0f7a3994d5f1ac0e853)] -> id: emailId]
+2020-05-15 04:03:59 ERROR SharedActions:47 - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (d7620177cc3cc0f7a3994d5f1ac0e853)] -> id: js-password] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61336}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d7620177cc3cc0f7a3994d5f1ac0e853
+2020-05-15 04:04:09 ERROR SharedActions:61 - Unable to enter password element not interactable
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-PP1U1SC', ip: '10.10.10.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Kunal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61336}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d7620177cc3cc0f7a3994d5f1ac0e853
+2020-05-15 04:05:04 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:05:04 INFO  SharedActions:26 - Clicked on [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> xpath: //li[@id='loginLogoutResponse']/a/span]
+2020-05-15 04:05:04 INFO  SharedActions:37 - Entered data in [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> id: emailId]
+2020-05-15 04:05:05 INFO  SharedActions:60 - Entered data in [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> id: js-password]
+2020-05-15 04:05:06 INFO  SharedActions:69 - Clicked on [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> xpath: //div[@id='loginCheck']]
+2020-05-15 04:05:06 INFO  SharedActions:73 - Clicked on [[ChromeDriver: chrome on WINDOWS (a5fc8b1767258e1adb536f0ca7b5c76a)] -> xpath: //div[@id='loginCheck']]
