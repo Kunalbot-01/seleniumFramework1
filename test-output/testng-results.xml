@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-15T04:04:44 IST" name="Edureka" finished-at="2020-05-15T04:05:07 IST" duration-ms="22561">
+  <suite started-at="2020-05-21T03:16:31 IST" name="Edureka" finished-at="2020-05-21T03:17:04 IST" duration-ms="33188">
     <groups>
     </groups>
-    <test started-at="2020-05-15T04:04:44 IST" name="RegressionTest" finished-at="2020-05-15T04:05:07 IST" duration-ms="22561">
+    <test started-at="2020-05-21T03:16:31 IST" name="RegressionTest" finished-at="2020-05-21T03:17:04 IST" duration-ms="33188">
       <class name="com.edureka.scripts.LogInScript">
-        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-15T04:04:44 IST" name="LaunchBrowser" finished-at="2020-05-15T04:05:01 IST" duration-ms="16639" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-21T03:16:31 IST" name="LaunchBrowser" finished-at="2020-05-21T03:16:53 IST" duration-ms="21999" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="tc_01_login()[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-15T04:05:01 IST" name="tc_01_login" finished-at="2020-05-15T04:05:06 IST" duration-ms="4856" status="PASS">
+        <test-method signature="tc_01_login()[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-21T03:16:53 IST" name="tc_01_login" finished-at="2020-05-21T03:17:03 IST" duration-ms="9752" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_01_login -->
-        <test-method is-config="true" signature="CloseBrowsers()[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-15T04:05:06 IST" name="CloseBrowsers" finished-at="2020-05-15T04:05:07 IST" duration-ms="1010" status="PASS">
+        <test-method is-config="true" signature="CloseBrowsers()[pri:0, instance:com.edureka.scripts.LogInScript@43ee72e6]" started-at="2020-05-21T03:17:03 IST" name="CloseBrowsers" finished-at="2020-05-21T03:17:04 IST" duration-ms="1346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowsers -->
